@@ -1,4 +1,4 @@
-function comparethickness(image,method,r)
+function compare_thickness(image,method,r)
 % Function that plots the inner surface temperature against time for a
 % practical range of tile thicknesses.
 

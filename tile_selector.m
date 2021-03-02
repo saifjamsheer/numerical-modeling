@@ -1,4 +1,4 @@
-function tile = tileselector()
+function tile = tile_selector()
 % Function that creates a list dialog box to allow the user to select the
 % tile data they wish to have loaded in and analyzed.
 

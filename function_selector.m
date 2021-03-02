@@ -1,4 +1,4 @@
-function number = functionselector()
+function number = function_selector()
 % Function that creates a list dialog box to allow the user to select one
 % of four programs to launch.
 

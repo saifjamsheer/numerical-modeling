@@ -1,4 +1,4 @@
-function [x,t,u,innermax] = shuttlerad(tmax, nt, xmax, nx, method, doplot, imagename, r)
+function [x,t,u,innermax] = shuttle_rad(tmax, nt, xmax, nx, method, doplot, imagename, r)
 % Function for modelling temperature in a space shuttle tile.
 
 % Input arguments:

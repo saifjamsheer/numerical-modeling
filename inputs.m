@@ -1,4 +1,4 @@
-function [tmax,nt,xmax,nx,doplot] = shuttleinputs()
+function [tmax,nt,xmax,nx,doplot] = inputs()
 % Function that allows the user to input the values to be used in the
 % shuttle.m function through an input dialog box.
 

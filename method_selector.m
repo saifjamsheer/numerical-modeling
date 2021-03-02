@@ -1,4 +1,4 @@
-function method = methodselector()
+function method = method_selector()
 % Function that creates a list dialog box to allow the user to select one
 % of four numerical methods to use.
 
